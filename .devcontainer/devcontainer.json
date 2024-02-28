@@ -1,0 +1,5 @@
+{
+    "dockerComposeFile": "../docker-compose.yml",
+    "service": "rmq_lab",
+    "workspaceFolder": "/app"
+}
